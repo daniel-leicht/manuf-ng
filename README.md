@@ -1,6 +1,10 @@
 manuf.py
 ===
 
+It seems that the original manuf library was abandoned, this is a forked and maintained version.
+
+    pip install manuf-ng
+
 [![Build Status](https://travis-ci.org/daniel-leicht/manuf.svg?branch=master)](https://travis-ci.org/daniel-leicht/manuf)
 
 Parser library for Wireshark's OUI database.
